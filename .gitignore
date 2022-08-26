@@ -67,3 +67,6 @@ vault_kv_secrets.yaml
 ## Ignore nohup
 nohup.out
 .vscode/*log
+
+#terraform.exe for windows
+terraform.exe
